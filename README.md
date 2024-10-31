@@ -1,4 +1,6 @@
 # Overview
+![Screenshot 2024-10-31 111336](https://github.com/user-attachments/assets/bfa794f3-5f96-40b7-bfd2-11ebbe780090)
+
 Matos Fashion merupakan sebuah startup yang tengah naik daun di dunia e-commerce fashion, sedang menghadapi tantangan dalam mengelola dan mengategorikan inventaris produk yang terus bertambah. Fokus utama mereka adalah dua jenis produk, yaitu kaos dan hoodie. Untuk meningkatkan efisiensi operasional serta mempermudah pengalaman belanja pelanggan, Matos Fashion berencana mengembangkan sistem klasifikasi produk otomatis menggunakan foto produk. Sistem ini nantinya diharapkan bisa mengategorikan produk tidak hanya berdasarkan jenisnya (seperti kaos atau hoodie), tetapi juga warnanya (merah, kuning, biru, hitam, atau putih).
 
 # Klasifikasi Multi Label
